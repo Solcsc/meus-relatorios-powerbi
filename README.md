@@ -53,4 +53,4 @@ Matriz de dados para identificar quais nichos e segmentos de mercado trazem o ma
 
 ## 👤 Autor
 * **Solange Eads**
-* [Meu LinkedIn](https://linkedin.com/in/solangesouzap) *
+* [Meu LinkedIn](https://linkedin.com/in/solangesouzap) 
