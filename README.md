@@ -51,6 +51,15 @@ Matriz de dados para identificar quais nichos e segmentos de mercado trazem o ma
 
 ---
 
+## 🚀 Origem do Projeto e Desenvolvimento Autônomo
+* **Relatórios 1 e 2:** Desenvolvidos como parte prática guiada durante o curso de formação, contando com o suporte e mentoria da professora.
+* **Relatório 3 (Distribuição de Lucro e Vendas):** Desenvolvido de forma **100% autônoma**. Utilizei a base de dados para explorar novas hipóteses de negócio, modelar a matriz de segmentos e criar os visuais por conta própria, validando minha capacidade de aplicar os conceitos aprendidos de forma independente.
+
+---
+
 ## 👤 Autor
 * **Solange Eads**
-* [Meu LinkedIn](https://linkedin.com/in/solangesouzap) 
+* [Meu LinkedIn](https://linkedin.com/in/Solangesouzap)
+
+
+
